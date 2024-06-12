@@ -1,0 +1,19 @@
+#two{
+    text-align: center;
+    height: 500px;
+    width: 330px;
+    color: white;
+    background-image: url("todolist.jpg");
+    background-size: cover;
+}
+h3{
+    text-align: left;
+}
+button{
+    background-color: rgb(245, 196, 0);
+    color: aliceblue;
+    
+}
+a{
+    color: aliceblue;
+}
